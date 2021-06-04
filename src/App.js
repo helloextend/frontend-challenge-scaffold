@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+const IMAGES_URL = 'https://dog.ceo/api/breed/hound/images/random/55'
+
 function App() {
   return (
     <div className="App">
