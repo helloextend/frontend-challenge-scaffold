@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+// import styled from '@emotion/styled' // if you want to use styled components, this is in the packages
 
 const IMAGES_URL = 'https://dog.ceo/api/breed/hound/images/random/55'
 /**
