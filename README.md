@@ -15,6 +15,6 @@ This project was bootstrapped with [Create React App (CRA)](https://github.com/f
 
 ## Challenge
 
-- Follow the instructions in App.tsx
+- Follow the instructions in `App.tsx`
 - Use any packages that you want
 - Style the UI however you want
