@@ -1,5 +1,7 @@
 # Extend React Challenge
 
+![image](https://user-images.githubusercontent.com/112627/133835872-47ed1c6d-9c48-4f4b-9426-a847eca82437.png)
+
 This project was bootstrapped with [Create React App (CRA)](https://github.com/facebook/create-react-app). You can learn more in the [CRA documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ## Setup
