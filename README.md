@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App (CRA)](https://github.com/f
 - When you are ready, push that branch and open a PR
 - Add `funador` as a collaborator on your private repo
 - Any questions or ready for a review? Please send an email to `jesse@extend.com`
-- If you prefer JavaScript, use the [JavaScript branch](https://github.com/helloextend/frontend-challenge-scaffold/tree/typescript) as your starter.
+- If you prefer JavaScript, use the JavaScript branch in this repo as your starter.
 
 ## Challenge
 
