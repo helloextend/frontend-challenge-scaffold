@@ -1,5 +1,7 @@
 # Extend React Challenge
 
+![image](https://user-images.githubusercontent.com/112627/133835872-47ed1c6d-9c48-4f4b-9426-a847eca82437.png)
+
 This project was bootstrapped with [Create React App (CRA)](https://github.com/facebook/create-react-app). You can learn more in the [CRA documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ## Setup
@@ -10,7 +12,6 @@ This project was bootstrapped with [Create React App (CRA)](https://github.com/f
 - Check out a new branch locally to complete the challenge
 - When you are ready, push that branch and open a PR
 - Add `funador` as a collaborator on your `private` repo
-- Any questions or ready for a review? Please send an email to `jesse@extend.com`
 - If you prefer TypeScript, use the TypeScript branch in this repo as your starter.
 
 ## Challenge
@@ -18,3 +19,4 @@ This project was bootstrapped with [Create React App (CRA)](https://github.com/f
 - Follow the instructions in `App.js`
 - Use any packages that you want
 - Style the UI however you want
+- Any questions or ready for a review? Please send an email to `jesse@extend.com`
