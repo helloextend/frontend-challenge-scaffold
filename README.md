@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App (CRA)](https://github.com/f
 - Create a new private repo on Github and follow the instructions to [push your local code to your remote repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository).
 - Check out a new branch locally to complete the challenge
 - When you are ready, push that branch and open a PR
-- Add `funador` as a collaborator on your private repo
+- Add `funador` as a collaborator on your `private` repo
 - Any questions or ready for a review? Please send an email to `jesse@extend.com`
 - If you prefer JavaScript, use the JavaScript branch in this repo as your starter.
 
