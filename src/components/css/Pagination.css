@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+  margin-bottom: 150px;
+}
+nav {
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  background: grey;
+}
+nav .btn {
+	display: inline-block;
+	padding: 24px 10px;
+}
+nav.btn button {
+	color: #757575;
+	text-transform: uppercase;
+}
+
+.btn button {
+  display: block;
+  padding: 16px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
+  transition: 0.8s;
+  transition-property: color, transform;
+}
+
+.btn button:hover {
+  background-color: tomato;
+  color: white;
+  transform: scale(1.1);
+}
+
+.paginationItem.active {
+  background-color: rgb(170, 56, 36);
+  color: white;
+  pointer-events: none;
+}
